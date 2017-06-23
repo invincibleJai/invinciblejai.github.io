@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Engineer at RedHat!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love building products that solve real, human problems. I’m passionate about programming, design, user experience, web development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mailjai.vardhan@gmail.com](mailto:mailjai.vardhan@gmail.com)
